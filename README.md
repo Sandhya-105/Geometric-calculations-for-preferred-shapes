@@ -38,7 +38,7 @@ import Point
 point = Point.Point(10,12)
 # distance calculation
 dist = point.distance(12,13)
-# To print a statement of the created poiny
+# To print a statement of the created point
 statement = point.toString()
 ```
 
